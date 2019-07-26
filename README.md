@@ -1,5 +1,5 @@
 # Linear-Regression
 Prediction of y  on the basis of x .
 ////////////////////////////////////////////
-You cn run it on either Jupyter or Spider.
+You can run it on either Jupyter or Spider.
 ///////////////////////////////////////////
